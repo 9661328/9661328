@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @9661328 (Jonathan Su).
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer programming and Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: jonasu9661328@gmail.com or https://github.com/9661328
+- 👋 Hi, I’m [@9661328](https://github.com/9661328) (Jonathan Su).
+- 👀 I’m currently a freshman at Skyline High School.
+- 🌱 I’m learning computer programming and Java.
+- 📫 How to reach me: Email me at jonasu9661328@gmail.com.
 
 <!---
 9661328/9661328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
