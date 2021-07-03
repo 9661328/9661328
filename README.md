@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@9661328](https://github.com/9661328) (Jonathan Su).
-- 👀 I’m currently a freshman at Skyline High School.
+- 👀 I’m currently a junior at Skyline High School.
 - 🌱 I’m currently learning my first year of computer programming.
 - 📫 How to reach me: Email me at jonasu9661328@gmail.com.
 - 📚 Language(s): Java
